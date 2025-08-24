@@ -3,12 +3,10 @@
 Welcome! 👋 This repository showcases my cybersecurity projects, covering **penetration testing**, **vulnerability assessments**, and **threat intelligence analysis**. The included reports demonstrate methodologies, tools, and results from hands-on security engagements.  
 
 
-
 ## 📂 Project Files  
 - **PENETRATION TESTING.pdf** → Full penetration test with vulnerability assessment and remediation recommendations.  
 - **SOCB.pdf** → Security Operations Center (SOC) report.  
 - **THREAT INTELLIGENCE ANALYSIS.pdf** → Threat intelligence report with OSINT techniques, profiling, and MITRE ATT&CK mapping.  
-
 
 
 ## 🛠️ Tools & Methodologies  
@@ -34,8 +32,3 @@ Cybersecurity Enthusiast | Penetration Testing & Threat Intelligence
 📧 Contact: *[melvinbaird101@gmail.com]*  
 🌐 LinkedIn: *[https://www.linkedin.com/in/melvinbard/]*  
 
-
-
-
-
-ChatGPT can make mistakes. Check important info.
